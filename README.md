@@ -13,8 +13,8 @@ This project is a web-based application built using Streamlit that provides insi
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/yourusername/olympics-analysis.git`
-`cd olympics-analysis`
+`git clone https://github.com/yourusername/olympics_data_analysis.git`
+`cd olympics_data_analysis`
 2. Install dependencies:
 
 Make sure you have Python installed, then install the required packages using:
