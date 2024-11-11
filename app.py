@@ -8,8 +8,8 @@ import scipy
 import helper
 import preprocessor
 
-df = pd.read_csv("athlete_events.csv")
-region_df = pd.read_csv("noc_regions.csv")
+df = pd.read_csv("data/athlete_events.csv")
+region_df = pd.read_csv("data/noc_regions.csv")
 
 df = preprocessor.preprocess(df,region_df)
 st.sidebar.title("Olympics Analysis")
