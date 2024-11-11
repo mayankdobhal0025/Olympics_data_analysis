@@ -19,6 +19,7 @@ To run this project locally, follow these steps:
 
 Make sure you have Python installed, then install the required packages using:
 `pip install -r requirements.txt`
+
 3. Run the application:
 
 Start the Streamlit app by executing:
